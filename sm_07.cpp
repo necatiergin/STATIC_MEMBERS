@@ -1,4 +1,4 @@
-class A {
+class Myclass {
 public:
 	//Myclass() : mx(10) {} //invalid
 
